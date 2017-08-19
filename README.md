@@ -7,4 +7,7 @@ cd gnome-shell-extension-arc-menu-arch
 makepkg -si
 ```
 
-
+## Deinstallation
+```
+pacman -R gnome-shell-extension-arc-menu-git
+```

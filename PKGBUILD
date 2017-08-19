@@ -28,5 +28,5 @@ build() {
 
 package() {
 	cd $srcdir/Arc-Menu
-	make install
+	make install DESTDIR="$pkgdir/" INSTALL=system
 }
