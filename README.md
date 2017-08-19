@@ -1,4 +1,6 @@
-# Arch Linux Package for Arc-Menu
+# gnome-shell-extension-arc-menu-git
+
+Arch Linux PKGBUILD for [Arc-Menu](https://github.com/LinxGem33/Arc-Menu).
 
 ## Installation
 ```
